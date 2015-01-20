@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sqljdbc4-4.0.2206.100">
+    <CLASSES>
+      <root url="jar://E:/jdbc-drivers/sqljdbc4-4.0.2206.100.jar!/" />
+      <root url="file://D:/java/apache-tomcat-7.0.52/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/java/apache-tomcat-7.0.52/lib" recursive="false" />
+  </library>
+</component>
